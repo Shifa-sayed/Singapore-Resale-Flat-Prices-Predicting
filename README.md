@@ -16,10 +16,12 @@ Conduct exploratory data analysis to uncover insights and trends.
 Model Building:
 
 Choose and train a regression model using historical data.
+
 Model Deployment:
 
 Develop an interactive web application using Streamlit.
 Deploy the application on the Render platform, ensuring accessibility to users.
+
 Domain
 
 The project operates within the real estate domain, specifically focusing on the resale flat market in Singapore. It involves understanding the dynamics of this market and applying machine learning to enhance valuation accuracy.
